@@ -4,7 +4,7 @@
 
 <!-- https://drive.google.com/file/d/1oxbucstOt8byAvvb6Fr8xmoSAqt7fYZ5/view -->
 
-![Good ReadME Generator](imgs\Untitled\_ Sep 29, 2020 4_23 PM.gif)
+![Good ReadME Generator](imgs\Video.gif)
 
 ## Description
 
