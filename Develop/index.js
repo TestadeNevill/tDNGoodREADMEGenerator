@@ -49,11 +49,11 @@ const questions = [
     name: "contributing",
     message: "Name collaborators"
   },
-  // {
-  //   type: "input",
-  //   name: "bagdes",
-  //   message: "List any badges"
-  // },
+  {
+    type: "input",
+    name: "test",
+    message: "run test"
+  },
 
   //rest of the questions here....
 

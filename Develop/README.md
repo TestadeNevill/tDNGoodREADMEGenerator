@@ -1,17 +1,15 @@
-# TEst
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+# tDN Good README Generator
+
 
 ## Description
 
-Example
+A template used to generate readme.md files by a series of questions using the Inquirer library.
 
 ## Table of Contents 
 
 * [Installation](#installation)
 
 * [Usage](#usage)
-
-* [License](#license)
 
 * [Contributing](#contributing)
 
@@ -29,22 +27,20 @@ npm install
 
 ## Usage
 
-node index answer qs
+node index.js then answer questions.
 
-## License
 
-This project is licensed under the MIT license.
   
 ## Contributing
 
-tDN
+Datesta Nickle
 
 ## Tests
 
 To run tests, run the following command:
 
 ```
-undefined
+yes
 
 ```
 
