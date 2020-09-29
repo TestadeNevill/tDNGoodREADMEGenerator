@@ -1,6 +1,8 @@
 # Good README Generator
 
-<iframe src="https://drive.google.com/file/d/1oxbucstOt8byAvvb6Fr8xmoSAqt7fYZ5/preview" width="640" height="480"></iframe>
+<!-- <iframe src="https://drive.google.com/file/d/1oxbucstOt8byAvvb6Fr8xmoSAqt7fYZ5/preview" width="640" height="480"></iframe> -->
+
+https://drive.google.com/file/d/1oxbucstOt8byAvvb6Fr8xmoSAqt7fYZ5/view
 
 ## Description
 
